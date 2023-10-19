@@ -15,6 +15,11 @@ h3,
 p,
 li {
     color: green;
+    list-style-type: none;
+}
+
+ul {
+    width: 85%;
 }
 
 img {
